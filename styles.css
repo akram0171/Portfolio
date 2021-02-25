@@ -1,0 +1,36 @@
+p{
+    font-family:'Courier New', Courier, monospace;
+    color:darkred;
+    
+}
+
+.row .large-8{
+    background-color: blanchedalmond;
+}
+
+.large-12 h3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+li{
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+color:darkred;
+
+}
+
+.large-4 li{
+    background-color: blanchedalmond;
+}
+
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
